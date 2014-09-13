@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH -J unsupervisedparser
+#SBATCH -o wsj1000.out
+#SBATCH -p normal
+#SBATCH -n 4
+#SBATCH -t 8:00:00
+#SBATCH -A Solar-ABM
+#SBATCH --mail-user=natviv@utexas.edu
+
+time
+java -Xmx1500m -Xms1500m -cp "stanford-parser.jar:stanford-parser-3.3.1-models.jar:stanford-parser-3.3.1-sources.jar:" CLIParser java -cp "stanford-parser.jar:stanford-parser-3.3.1-models.jar:stanford-parser-3.3.1-sources.jar:" CLIParser -evals "tsv" -goodPCFG -train mrg/wsj.mrg -selftrain mrg/brownself.mrg -test mrg/browntest.mrg-evals "tsv" -goodPCFG -train mrg/wsj.mrg -selftrain mrg/brownself.mrg -test mrg/browntest.mrg
+time
