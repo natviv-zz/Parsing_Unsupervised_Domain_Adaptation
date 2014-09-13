@@ -1,0 +1,82 @@
+000 (160663.000.000) 03/29 18:05:21 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160663.000.000) 03/29 18:05:48 Job executing on host: <128.83.139.5:34539>
+...
+006 (160663.000.000) 03/29 18:05:57 Image size of job updated: 34914144
+	26  -  MemoryUsage of job (MB)
+	26348  -  ResidentSetSize of job (KB)
+...
+006 (160663.000.000) 03/29 18:10:58 Image size of job updated: 34914144
+	6605  -  MemoryUsage of job (MB)
+	6762796  -  ResidentSetSize of job (KB)
+...
+006 (160663.000.000) 03/29 18:15:58 Image size of job updated: 34914144
+	8249  -  MemoryUsage of job (MB)
+	8446128  -  ResidentSetSize of job (KB)
+...
+010 (160663.000.000) 03/29 18:16:49 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160663.000.000) 03/29 18:16:49 Image size of job updated: 34914144
+	8262  -  MemoryUsage of job (MB)
+	8459820  -  ResidentSetSize of job (KB)
+...
+011 (160663.000.000) 03/29 18:26:52 Job was unsuspended.
+...
+006 (160663.000.000) 03/29 18:27:32 Image size of job updated: 34980708
+	8262  -  MemoryUsage of job (MB)
+	8459820  -  ResidentSetSize of job (KB)
+...
+004 (160663.000.000) 03/29 18:27:32 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:09:22, Sys 0 00:00:21  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3500     3500   4690508
+	   Memory (MB)          :     8262        0      4028
+...
+001 (160663.000.000) 03/29 18:32:32 Job executing on host: <128.83.144.147:40616>
+...
+022 (160663.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot1@oliphaunt-1.cs.utexas.edu <128.83.144.147:40616>
+...
+023 (160663.000.000) 03/29 20:30:31 Job reconnected to slot1@oliphaunt-1.cs.utexas.edu
+    startd address: <128.83.144.147:40616>
+    starter address: <128.83.144.147:34036>
+...
+007 (160663.000.000) 03/29 20:59:45 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (160663.000.000) 03/29 21:00:45 Job executing on host: <128.83.144.147:40616>
+...
+001 (160663.000.000) 03/30 03:19:41 Job executing on host: <128.83.130.224:45706>
+...
+006 (160663.000.000) 03/30 03:34:50 Image size of job updated: 35000000
+	10344  -  MemoryUsage of job (MB)
+	10591940  -  ResidentSetSize of job (KB)
+...
+006 (160663.000.000) 03/30 03:39:50 Image size of job updated: 35000000
+	10376  -  MemoryUsage of job (MB)
+	10624944  -  ResidentSetSize of job (KB)
+...
+005 (160663.000.000) 03/30 09:17:49 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 05:58:21, Sys 0 00:00:20  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 05:58:21, Sys 0 00:00:20  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3500     3500   1879570
+	   Memory (MB)          :    10376     9766     16126
+...

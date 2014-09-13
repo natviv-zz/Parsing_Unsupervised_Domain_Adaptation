@@ -1,0 +1,196 @@
+000 (160677.000.000) 03/29 18:15:23 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160677.000.000) 03/29 18:15:30 Job executing on host: <128.83.130.68:37762>
+...
+006 (160677.000.000) 03/29 18:15:38 Image size of job updated: 0
+	3  -  MemoryUsage of job (MB)
+	2204  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 18:20:38 Image size of job updated: 9883792
+	3069  -  MemoryUsage of job (MB)
+	3141916  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 18:25:39 Image size of job updated: 9883792
+	3174  -  MemoryUsage of job (MB)
+	3250036  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 18:50:41 Image size of job updated: 9883792
+	3225  -  MemoryUsage of job (MB)
+	3301980  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 19:00:42 Image size of job updated: 9883792
+	3238  -  MemoryUsage of job (MB)
+	3315704  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 19:05:43 Image size of job updated: 9883792
+	3270  -  MemoryUsage of job (MB)
+	3347612  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 19:10:43 Image size of job updated: 9883792
+	3294  -  MemoryUsage of job (MB)
+	3372512  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 19:15:43 Image size of job updated: 9883792
+	3299  -  MemoryUsage of job (MB)
+	3378036  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 19:20:44 Image size of job updated: 9883792
+	3304  -  MemoryUsage of job (MB)
+	3383184  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 19:25:44 Image size of job updated: 9883792
+	3336  -  MemoryUsage of job (MB)
+	3415752  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 19:30:44 Image size of job updated: 9883792
+	3337  -  MemoryUsage of job (MB)
+	3416068  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/29 19:35:45 Image size of job updated: 9883792
+	3358  -  MemoryUsage of job (MB)
+	3438332  -  ResidentSetSize of job (KB)
+...
+022 (160677.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot1@orcrist-11.cs.utexas.edu <128.83.130.68:37762>
+...
+023 (160677.000.000) 03/29 20:30:30 Job reconnected to slot1@orcrist-11.cs.utexas.edu
+    startd address: <128.83.130.68:37762>
+    starter address: <128.83.130.68:39977>
+...
+001 (160677.000.000) 03/29 20:59:45 Job executing on host: <128.83.130.68:37762>
+...
+001 (160677.000.000) 03/30 03:20:35 Job executing on host: <128.83.130.223:52205>
+...
+006 (160677.000.000) 03/30 03:20:43 Image size of job updated: 34216344
+	3418  -  MemoryUsage of job (MB)
+	3500000  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/30 03:25:43 Image size of job updated: 34216344
+	6677  -  MemoryUsage of job (MB)
+	6836304  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/30 03:30:44 Image size of job updated: 34216344
+	8339  -  MemoryUsage of job (MB)
+	8539036  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/30 03:35:45 Image size of job updated: 34216344
+	10434  -  MemoryUsage of job (MB)
+	10683712  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/30 03:45:45 Image size of job updated: 34216344
+	10466  -  MemoryUsage of job (MB)
+	10716176  -  ResidentSetSize of job (KB)
+...
+006 (160677.000.000) 03/30 04:00:47 Image size of job updated: 34216344
+	10482  -  MemoryUsage of job (MB)
+	10732772  -  ResidentSetSize of job (KB)
+...
+001 (160677.000.000) 03/30 14:05:33 Job executing on host: <128.83.144.147:40616>
+...
+001 (160677.000.000) 03/30 21:15:42 Job executing on host: <128.83.144.13:48954>
+...
+006 (160677.000.000) 03/30 21:20:52 Image size of job updated: 35264788
+	12208  -  MemoryUsage of job (MB)
+	12500000  -  ResidentSetSize of job (KB)
+...
+022 (160677.000.000) 03/30 22:34:10 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot23@glamdring-8.cs.utexas.edu <128.83.144.13:48954>
+...
+023 (160677.000.000) 03/30 22:34:11 Job reconnected to slot23@glamdring-8.cs.utexas.edu
+    startd address: <128.83.144.13:48954>
+    starter address: <128.83.144.13:37200>
+...
+007 (160677.000.000) 03/31 11:33:13 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:14 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:14 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:14 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:14 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:39 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:39 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:39 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:39 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160677.000.000) 03/31 11:33:39 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (160677.000.000) 03/31 11:34:39 Job executing on host: <128.83.130.161:44176>
+...
+022 (160677.000.000) 03/31 11:50:51 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot4@oliphaunt-2.cs.utexas.edu <128.83.130.161:44176>
+...
+023 (160677.000.000) 03/31 11:50:52 Job reconnected to slot4@oliphaunt-2.cs.utexas.edu
+    startd address: <128.83.130.161:44176>
+    starter address: <128.83.130.161:33865>
+...
+022 (160677.000.000) 03/31 12:01:15 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot4@oliphaunt-2.cs.utexas.edu <128.83.130.161:44176>
+...
+023 (160677.000.000) 03/31 12:01:15 Job reconnected to slot4@oliphaunt-2.cs.utexas.edu
+    startd address: <128.83.130.161:44176>
+    starter address: <128.83.130.161:33865>
+...
+022 (160677.000.000) 03/31 12:36:26 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot4@oliphaunt-2.cs.utexas.edu <128.83.130.161:44176>
+...
+023 (160677.000.000) 03/31 12:36:26 Job reconnected to slot4@oliphaunt-2.cs.utexas.edu
+    startd address: <128.83.130.161:44176>
+    starter address: <128.83.130.161:33865>
+...
+022 (160677.000.000) 03/31 12:47:17 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot4@oliphaunt-2.cs.utexas.edu <128.83.130.161:44176>
+...
+023 (160677.000.000) 03/31 12:47:18 Job reconnected to slot4@oliphaunt-2.cs.utexas.edu
+    startd address: <128.83.130.161:44176>
+    starter address: <128.83.130.161:33865>
+...
+022 (160677.000.000) 03/31 12:57:02 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot4@oliphaunt-2.cs.utexas.edu <128.83.130.161:44176>
+...
+023 (160677.000.000) 03/31 12:57:02 Job reconnected to slot4@oliphaunt-2.cs.utexas.edu
+    startd address: <128.83.130.161:44176>
+    starter address: <128.83.130.161:33865>
+...

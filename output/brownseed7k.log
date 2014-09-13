@@ -1,0 +1,377 @@
+000 (160674.000.000) 03/29 18:14:11 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160674.000.000) 03/29 18:14:12 Job executing on host: <128.83.144.48:55138>
+...
+006 (160674.000.000) 03/29 18:14:21 Image size of job updated: 0
+	3  -  MemoryUsage of job (MB)
+	2316  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/29 18:19:21 Image size of job updated: 34914144
+	1409  -  MemoryUsage of job (MB)
+	1442676  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/29 18:29:22 Image size of job updated: 34914144
+	1471  -  MemoryUsage of job (MB)
+	1505604  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/29 18:34:23 Image size of job updated: 34914144
+	1840  -  MemoryUsage of job (MB)
+	1883416  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/29 18:39:23 Image size of job updated: 34914144
+	1841  -  MemoryUsage of job (MB)
+	1885108  -  ResidentSetSize of job (KB)
+...
+022 (160674.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot2@angrist-1.cs.utexas.edu <128.83.144.48:55138>
+...
+023 (160674.000.000) 03/29 20:30:30 Job reconnected to slot2@angrist-1.cs.utexas.edu
+    startd address: <128.83.144.48:55138>
+    starter address: <128.83.144.48:44390>
+...
+001 (160674.000.000) 03/29 20:59:45 Job executing on host: <128.83.130.68:37762>
+...
+006 (160674.000.000) 03/29 21:04:55 Image size of job updated: 35000000
+	2778  -  MemoryUsage of job (MB)
+	2844036  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/29 21:09:56 Image size of job updated: 35000000
+	2865  -  MemoryUsage of job (MB)
+	2933180  -  ResidentSetSize of job (KB)
+...
+001 (160674.000.000) 03/30 03:20:40 Job executing on host: <128.83.144.69:49816>
+...
+010 (160674.000.000) 03/30 03:22:12 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160674.000.000) 03/30 03:22:12 Image size of job updated: 35000000
+	3098  -  MemoryUsage of job (MB)
+	3171520  -  ResidentSetSize of job (KB)
+...
+011 (160674.000.000) 03/30 03:23:59 Job was unsuspended.
+...
+006 (160674.000.000) 03/30 03:25:50 Image size of job updated: 35000000
+	3104  -  MemoryUsage of job (MB)
+	3177668  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/30 03:30:51 Image size of job updated: 35000000
+	3153  -  MemoryUsage of job (MB)
+	3228328  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/30 03:35:51 Image size of job updated: 35000000
+	3212  -  MemoryUsage of job (MB)
+	3288992  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/30 03:41:08 Image size of job updated: 35000000
+	3222  -  MemoryUsage of job (MB)
+	3298368  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/30 03:45:52 Image size of job updated: 35000000
+	3278  -  MemoryUsage of job (MB)
+	3355728  -  ResidentSetSize of job (KB)
+...
+010 (160674.000.000) 03/30 03:54:30 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160674.000.000) 03/30 03:56:02 Job was unsuspended.
+...
+010 (160674.000.000) 03/30 03:59:16 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160674.000.000) 03/30 04:01:03 Job was unsuspended.
+...
+010 (160674.000.000) 03/30 04:04:36 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160674.000.000) 03/30 04:09:38 Job was unsuspended.
+...
+010 (160674.000.000) 03/30 04:14:35 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160674.000.000) 03/30 04:17:36 Job was unsuspended.
+...
+010 (160674.000.000) 03/30 04:25:43 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160674.000.000) 03/30 04:28:21 Job was unsuspended.
+...
+006 (160674.000.000) 03/30 04:36:04 Image size of job updated: 35000000
+	3397  -  MemoryUsage of job (MB)
+	3477872  -  ResidentSetSize of job (KB)
+...
+010 (160674.000.000) 03/30 04:38:01 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160674.000.000) 03/30 04:38:01 Image size of job updated: 35000000
+	3499  -  MemoryUsage of job (MB)
+	3582304  -  ResidentSetSize of job (KB)
+...
+011 (160674.000.000) 03/30 04:41:13 Job was unsuspended.
+...
+010 (160674.000.000) 03/30 04:44:46 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160674.000.000) 03/30 04:44:46 Image size of job updated: 35000000
+	3684  -  MemoryUsage of job (MB)
+	3772348  -  ResidentSetSize of job (KB)
+...
+011 (160674.000.000) 03/30 04:45:00 Job was unsuspended.
+...
+006 (160674.000.000) 03/30 04:46:05 Image size of job updated: 35000000
+	4014  -  MemoryUsage of job (MB)
+	4109712  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/30 04:51:46 Image size of job updated: 35000000
+	4673  -  MemoryUsage of job (MB)
+	4784984  -  ResidentSetSize of job (KB)
+...
+010 (160674.000.000) 03/30 04:55:30 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160674.000.000) 03/30 04:55:30 Image size of job updated: 35000000
+	5508  -  MemoryUsage of job (MB)
+	5639452  -  ResidentSetSize of job (KB)
+...
+011 (160674.000.000) 03/30 04:57:05 Job was unsuspended.
+...
+010 (160674.000.000) 03/30 04:59:26 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160674.000.000) 03/30 04:59:26 Image size of job updated: 35000000
+	6462  -  MemoryUsage of job (MB)
+	6616800  -  ResidentSetSize of job (KB)
+...
+011 (160674.000.000) 03/30 05:09:31 Job was unsuspended.
+...
+004 (160674.000.000) 03/30 05:09:39 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:34:33, Sys 0 00:00:21  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3500     3500   4692484
+	   Memory (MB)          :     6462     2930      4027
+...
+007 (160674.000.000) 03/30 05:11:56 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:11:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:11:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:11:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:11:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:12:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:12:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:12:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:12:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:12:57 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:23 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:23 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:23 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:23 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:23 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:50 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:50 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:50 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:50 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:13:50 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:14:49 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:14:49 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:14:49 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:14:50 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:14:50 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:15:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:15:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:15:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:15:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:15:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:16:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:16:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:16:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:16:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+007 (160674.000.000) 03/30 05:16:36 Shadow exception!
+	Can no longer talk to condor_starter <128.83.130.161:44176>
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+...
+001 (160674.000.000) 03/30 05:17:36 Job executing on host: <128.83.130.223:52205>
+...
+006 (160674.000.000) 03/30 05:22:46 Image size of job updated: 35000000
+	8012  -  MemoryUsage of job (MB)
+	8204024  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/30 05:27:46 Image size of job updated: 35000000
+	8269  -  MemoryUsage of job (MB)
+	8467356  -  ResidentSetSize of job (KB)
+...
+006 (160674.000.000) 03/30 05:37:47 Image size of job updated: 35000000
+	10347  -  MemoryUsage of job (MB)
+	10595232  -  ResidentSetSize of job (KB)
+...
+001 (160674.000.000) 03/30 14:05:33 Job executing on host: <128.83.144.147:40616>
+...
+001 (160674.000.000) 03/30 21:15:42 Job executing on host: <128.83.144.13:48954>
+...
+006 (160674.000.000) 03/30 21:15:51 Image size of job updated: 35263044
+	12208  -  MemoryUsage of job (MB)
+	12500000  -  ResidentSetSize of job (KB)
+...
+022 (160674.000.000) 03/30 22:34:10 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot20@glamdring-8.cs.utexas.edu <128.83.144.13:48954>
+...
+023 (160674.000.000) 03/30 22:34:11 Job reconnected to slot20@glamdring-8.cs.utexas.edu
+    startd address: <128.83.144.13:48954>
+    starter address: <128.83.144.13:56910>
+...
+005 (160674.000.000) 03/31 04:28:02 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 07:17:38, Sys 0 00:00:40  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 07:17:38, Sys 0 00:00:40  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :     3500     3500          
+	   Memory (MB)          :    12208    12208          
+...

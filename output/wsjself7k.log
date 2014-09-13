@@ -1,0 +1,80 @@
+000 (160661.000.000) 03/29 18:04:32 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160661.000.000) 03/29 18:04:58 Job executing on host: <128.83.139.5:34539>
+...
+006 (160661.000.000) 03/29 18:05:07 Image size of job updated: 34914144
+	535  -  MemoryUsage of job (MB)
+	546948  -  ResidentSetSize of job (KB)
+...
+006 (160661.000.000) 03/29 18:10:08 Image size of job updated: 34914144
+	8039  -  MemoryUsage of job (MB)
+	8231844  -  ResidentSetSize of job (KB)
+...
+006 (160661.000.000) 03/29 18:15:08 Image size of job updated: 34914144
+	9243  -  MemoryUsage of job (MB)
+	9464712  -  ResidentSetSize of job (KB)
+...
+010 (160661.000.000) 03/29 18:17:28 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160661.000.000) 03/29 18:17:29 Image size of job updated: 34914144
+	9689  -  MemoryUsage of job (MB)
+	9921476  -  ResidentSetSize of job (KB)
+...
+011 (160661.000.000) 03/29 18:27:30 Job was unsuspended.
+...
+004 (160661.000.000) 03/29 18:27:31 Job was evicted.
+	(0) Job was not checkpointed.
+		Usr 0 00:09:55, Sys 0 00:00:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3500     3500   4690508
+	   Memory (MB)          :     9689        0      4028
+...
+001 (160661.000.000) 03/29 18:32:32 Job executing on host: <128.83.130.161:44176>
+...
+006 (160661.000.000) 03/29 18:42:43 Image size of job updated: 35000000
+	10321  -  MemoryUsage of job (MB)
+	10568196  -  ResidentSetSize of job (KB)
+...
+006 (160661.000.000) 03/29 18:47:43 Image size of job updated: 35000000
+	10337  -  MemoryUsage of job (MB)
+	10584792  -  ResidentSetSize of job (KB)
+...
+006 (160661.000.000) 03/29 18:52:43 Image size of job updated: 35000000
+	10426  -  MemoryUsage of job (MB)
+	10675592  -  ResidentSetSize of job (KB)
+...
+005 (160661.000.000) 03/29 20:27:48 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:55:23, Sys 0 00:00:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:55:23, Sys 0 00:00:09  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3500     3500   1912084
+	   Memory (MB)          :    10426     9766     24188
+...
+022 (160661.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot29@oliphaunt-2.cs.utexas.edu <128.83.130.161:44176>
+...
+005 (160661.000.000) 03/29 20:30:31 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:55:23, Sys 0 00:00:09  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:55:23, Sys 0 00:00:09  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+...

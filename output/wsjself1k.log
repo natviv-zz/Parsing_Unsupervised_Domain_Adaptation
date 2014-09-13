@@ -1,0 +1,69 @@
+000 (160655.000.000) 03/29 18:01:08 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160655.000.000) 03/29 18:01:14 Job executing on host: <128.83.139.5:34539>
+...
+006 (160655.000.000) 03/29 18:01:23 Image size of job updated: 34914144
+	548  -  MemoryUsage of job (MB)
+	560196  -  ResidentSetSize of job (KB)
+...
+006 (160655.000.000) 03/29 18:06:24 Image size of job updated: 34914144
+	3234  -  MemoryUsage of job (MB)
+	3311592  -  ResidentSetSize of job (KB)
+...
+006 (160655.000.000) 03/29 18:11:25 Image size of job updated: 34914144
+	3358  -  MemoryUsage of job (MB)
+	3438564  -  ResidentSetSize of job (KB)
+...
+006 (160655.000.000) 03/29 18:16:25 Image size of job updated: 34914144
+	3803  -  MemoryUsage of job (MB)
+	3893996  -  ResidentSetSize of job (KB)
+...
+010 (160655.000.000) 03/29 18:18:45 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160655.000.000) 03/29 18:18:45 Image size of job updated: 34914144
+	3891  -  MemoryUsage of job (MB)
+	3984332  -  ResidentSetSize of job (KB)
+...
+011 (160655.000.000) 03/29 18:21:01 Job was unsuspended.
+...
+006 (160655.000.000) 03/29 18:21:26 Image size of job updated: 34914144
+	3945  -  MemoryUsage of job (MB)
+	4039220  -  ResidentSetSize of job (KB)
+...
+010 (160655.000.000) 03/29 18:24:59 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160655.000.000) 03/29 18:24:59 Image size of job updated: 34914144
+	4277  -  MemoryUsage of job (MB)
+	4378788  -  ResidentSetSize of job (KB)
+...
+006 (160655.000.000) 03/29 18:26:25 Image size of job updated: 34914144
+	4278  -  MemoryUsage of job (MB)
+	4380108  -  ResidentSetSize of job (KB)
+...
+011 (160655.000.000) 03/29 18:27:35 Job was unsuspended.
+...
+006 (160655.000.000) 03/29 18:31:26 Image size of job updated: 34914144
+	4339  -  MemoryUsage of job (MB)
+	4442348  -  ResidentSetSize of job (KB)
+...
+006 (160655.000.000) 03/29 18:36:26 Image size of job updated: 34914144
+	4343  -  MemoryUsage of job (MB)
+	4446436  -  ResidentSetSize of job (KB)
+...
+005 (160655.000.000) 03/29 18:39:28 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:26:44, Sys 0 00:00:21  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:26:44, Sys 0 00:00:21  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3500     3500   4690514
+	   Memory (MB)          :     4343        0      4028
+...

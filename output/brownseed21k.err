@@ -1,0 +1,32 @@
+Making treebank from treebank dir: /u/natviv/nlphw3/mrg/brownself.mrg
+Reading trees...done [read 21069 trees]. Time elapsed: 0 ms
+Options parameters:
+useUnknownWordSignatures 2
+smoothInUnknownsThreshold 100
+smartMutation false
+useUnicodeType false
+unknownSuffixSize 1
+unknownPrefixSize 1
+flexiTag true
+useSignatureForKnownSmoothing false
+wordClassesFile null
+parserParams edu.stanford.nlp.parser.lexparser.EnglishTreebankParserParams
+forceCNF false
+doPCFG true
+doDep false
+freeDependencies false
+directional true
+genStop true
+distance true
+coarseDistance false
+dcTags false
+nPrune false
+Train parameters: smooth=false PA=true GPA=false selSplit=true (400.0; deleting [VP^SQ, VP^VP, VP^SINV, VP^NP]) mUnary=1 mUnaryTags=false sPPT=false tagPA=true tagSelSplit=false (0.0) rightRec=true leftRec=false collinsPunc=false markov=true mOrd=2 hSelSplit=true (10) compactGrammar=3 postPA=false postGPA=false selPSplit=false (0.0) tagSelPSplit=false (0.0) postSplitWithBase=false fractionBeforeUnseenCounting=0.5 openClassTypesThreshold=50 preTransformer=null taggedFiles=null predictSplits=false splitCount=1 splitRecombineRate=0.0 simpleBinarizedLabels=false noRebinarization=false trainingThreads=1 dvKBest=100 dvIterations=20 dvBatchSize=500 regCost=1.0E-4 qnIterationsPerBatch=1 qnEstimates=15 qnTolerance=15.0 debugOutputSeconds=0 dvSeed=0 learningRate=0.1 deltaMargin=0.1 unknownNumberVector=true unknownDashedWordVectors=true unknownCapsVector=true unknownChineseYearVector=true unknownChineseNumberVector=true unknownChinesePercentVector=true dvSimplifiedModel=false scalingForInit=0.5 maxTrainTimeSeconds=0 unkWord=UNK lowercaseWordVectors=false transformMatrixType=DIAGONAL useContextWords=false
+Using EnglishTreebankParserParams splitIN=4 sPercent=true sNNP=0 sQuotes=false sSFP=false rbGPA=false j#=false jJJ=false jNounTags=false sPPJJ=false sTRJJ=false sJJCOMP=false sMoreLess=false unaryDT=true unaryRB=true unaryPRP=false reflPRP=false unaryIN=false sCC=1 sNT=false sRB=false sAux=2 vpSubCat=false mDTV=2 sVP=3 sVPNPAgr=false sSTag=0 mVP=false sNP%=0 sNPPRP=false dominatesV=1 dominatesI=false dominatesC=false mCC=0 sSGapped=4 numNP=false sPoss=1 baseNP=1 sNPNNP=0 sTMP=1 sNPADV=1 cTags=true rightPhrasal=false gpaRootVP=false splitSbar=0 mPPTOiIN=0 cWh=0
+Binarizing trees...done. Time elapsed: 19458 ms
+Extracting PCFG...done. Time elapsed: 2474 ms
+Extracting Lexicon...done. Time elapsed: 2510 ms
+Compiling grammar...done Time elapsed: 169 ms
+Done training parser.
+Making treebank from treebank dir: /u/natviv/nlphw3/mrg/wsj.mrg
+Reading trees...done [read 36559 trees]. Time elapsed: 8628 ms

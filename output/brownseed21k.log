@@ -1,0 +1,138 @@
+000 (160678.000.000) 03/29 18:15:56 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160678.000.000) 03/29 18:16:01 Job executing on host: <128.83.130.68:37762>
+...
+006 (160678.000.000) 03/29 18:16:10 Image size of job updated: 0
+	3  -  MemoryUsage of job (MB)
+	2196  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 18:21:11 Image size of job updated: 9883792
+	2704  -  MemoryUsage of job (MB)
+	2768684  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 18:26:11 Image size of job updated: 9883792
+	2762  -  MemoryUsage of job (MB)
+	2827700  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 18:31:11 Image size of job updated: 9883792
+	2923  -  MemoryUsage of job (MB)
+	2992224  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 18:56:14 Image size of job updated: 9883792
+	3062  -  MemoryUsage of job (MB)
+	3135440  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 19:01:14 Image size of job updated: 9883792
+	3121  -  MemoryUsage of job (MB)
+	3195552  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 19:06:14 Image size of job updated: 9883792
+	3121  -  MemoryUsage of job (MB)
+	3195896  -  ResidentSetSize of job (KB)
+...
+022 (160678.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot2@orcrist-11.cs.utexas.edu <128.83.130.68:37762>
+...
+023 (160678.000.000) 03/29 20:30:31 Job reconnected to slot2@orcrist-11.cs.utexas.edu
+    startd address: <128.83.130.68:37762>
+    starter address: <128.83.130.68:43747>
+...
+001 (160678.000.000) 03/29 20:59:45 Job executing on host: <128.83.144.48:55138>
+...
+006 (160678.000.000) 03/29 20:59:55 Image size of job updated: 34914144
+	3174  -  MemoryUsage of job (MB)
+	3250000  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 21:04:55 Image size of job updated: 34914144
+	6492  -  MemoryUsage of job (MB)
+	6647156  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 21:09:55 Image size of job updated: 34914144
+	7020  -  MemoryUsage of job (MB)
+	7187676  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 21:14:56 Image size of job updated: 34914144
+	7148  -  MemoryUsage of job (MB)
+	7318844  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 21:19:57 Image size of job updated: 34914144
+	7162  -  MemoryUsage of job (MB)
+	7333528  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/29 21:24:57 Image size of job updated: 34914144
+	7172  -  MemoryUsage of job (MB)
+	7343176  -  ResidentSetSize of job (KB)
+...
+001 (160678.000.000) 03/30 03:19:41 Job executing on host: <128.83.130.223:52205>
+...
+006 (160678.000.000) 03/30 03:39:52 Image size of job updated: 35000000
+	10448  -  MemoryUsage of job (MB)
+	10698728  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/30 03:49:53 Image size of job updated: 35000000
+	10466  -  MemoryUsage of job (MB)
+	10716936  -  ResidentSetSize of job (KB)
+...
+006 (160678.000.000) 03/30 04:09:55 Image size of job updated: 35000000
+	10527  -  MemoryUsage of job (MB)
+	10779580  -  ResidentSetSize of job (KB)
+...
+001 (160678.000.000) 03/30 14:05:33 Job executing on host: <128.83.144.147:40616>
+...
+001 (160678.000.000) 03/30 21:15:42 Job executing on host: <128.83.144.13:48954>
+...
+006 (160678.000.000) 03/30 21:20:52 Image size of job updated: 35263044
+	12208  -  MemoryUsage of job (MB)
+	12500000  -  ResidentSetSize of job (KB)
+...
+022 (160678.000.000) 03/30 22:34:10 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot25@glamdring-8.cs.utexas.edu <128.83.144.13:48954>
+...
+023 (160678.000.000) 03/30 22:34:11 Job reconnected to slot25@glamdring-8.cs.utexas.edu
+    startd address: <128.83.144.13:48954>
+    starter address: <128.83.144.13:55984>
+...
+001 (160678.000.000) 03/31 11:33:13 Job executing on host: <128.83.144.147:40616>
+...
+022 (160678.000.000) 03/31 11:50:51 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot30@oliphaunt-1.cs.utexas.edu <128.83.144.147:40616>
+...
+023 (160678.000.000) 03/31 11:50:52 Job reconnected to slot30@oliphaunt-1.cs.utexas.edu
+    startd address: <128.83.144.147:40616>
+    starter address: <128.83.144.147:57526>
+...
+022 (160678.000.000) 03/31 12:01:15 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot30@oliphaunt-1.cs.utexas.edu <128.83.144.147:40616>
+...
+023 (160678.000.000) 03/31 12:01:15 Job reconnected to slot30@oliphaunt-1.cs.utexas.edu
+    startd address: <128.83.144.147:40616>
+    starter address: <128.83.144.147:57526>
+...
+022 (160678.000.000) 03/31 12:36:26 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot30@oliphaunt-1.cs.utexas.edu <128.83.144.147:40616>
+...
+023 (160678.000.000) 03/31 12:36:26 Job reconnected to slot30@oliphaunt-1.cs.utexas.edu
+    startd address: <128.83.144.147:40616>
+    starter address: <128.83.144.147:57526>
+...
+022 (160678.000.000) 03/31 12:47:17 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot30@oliphaunt-1.cs.utexas.edu <128.83.144.147:40616>
+...
+023 (160678.000.000) 03/31 12:47:18 Job reconnected to slot30@oliphaunt-1.cs.utexas.edu
+    startd address: <128.83.144.147:40616>
+    starter address: <128.83.144.147:57526>
+...
+022 (160678.000.000) 03/31 12:57:02 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot30@oliphaunt-1.cs.utexas.edu <128.83.144.147:40616>
+...
+023 (160678.000.000) 03/31 12:57:02 Job reconnected to slot30@oliphaunt-1.cs.utexas.edu
+    startd address: <128.83.144.147:40616>
+    starter address: <128.83.144.147:57526>
+...

@@ -1,0 +1,81 @@
+000 (160667.000.000) 03/29 18:07:19 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160667.000.000) 03/29 18:07:31 Job executing on host: <128.83.144.70:49009>
+...
+006 (160667.000.000) 03/29 18:07:40 Image size of job updated: 0
+	3  -  MemoryUsage of job (MB)
+	2192  -  ResidentSetSize of job (KB)
+...
+006 (160667.000.000) 03/29 18:12:41 Image size of job updated: 34914144
+	8303  -  MemoryUsage of job (MB)
+	8501644  -  ResidentSetSize of job (KB)
+...
+006 (160667.000.000) 03/29 18:17:41 Image size of job updated: 34914144
+	10318  -  MemoryUsage of job (MB)
+	10565492  -  ResidentSetSize of job (KB)
+...
+006 (160667.000.000) 03/29 18:22:42 Image size of job updated: 34914144
+	10346  -  MemoryUsage of job (MB)
+	10593572  -  ResidentSetSize of job (KB)
+...
+010 (160667.000.000) 03/29 18:27:51 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160667.000.000) 03/29 18:37:26 Job was unsuspended.
+...
+006 (160667.000.000) 03/29 18:47:45 Image size of job updated: 34914144
+	10375  -  MemoryUsage of job (MB)
+	10623904  -  ResidentSetSize of job (KB)
+...
+006 (160667.000.000) 03/29 18:52:46 Image size of job updated: 34914144
+	10387  -  MemoryUsage of job (MB)
+	10636212  -  ResidentSetSize of job (KB)
+...
+022 (160667.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot26@angrist-3.cs.utexas.edu <128.83.144.70:49009>
+...
+023 (160667.000.000) 03/29 20:30:30 Job reconnected to slot26@angrist-3.cs.utexas.edu
+    startd address: <128.83.144.70:49009>
+    starter address: <128.83.144.70:38662>
+...
+001 (160667.000.000) 03/29 20:59:45 Job executing on host: <128.83.144.147:40616>
+...
+001 (160667.000.000) 03/30 03:19:41 Job executing on host: <128.83.130.224:45706>
+...
+001 (160667.000.000) 03/30 14:05:33 Job executing on host: <128.83.144.147:40616>
+...
+001 (160667.000.000) 03/30 21:15:42 Job executing on host: <128.83.120.228:43566>
+...
+010 (160667.000.000) 03/30 21:17:53 Job was suspended.
+	Number of processes actually suspended: 1
+...
+006 (160667.000.000) 03/30 21:17:53 Image size of job updated: 35263044
+	12208  -  MemoryUsage of job (MB)
+	12500000  -  ResidentSetSize of job (KB)
+...
+011 (160667.000.000) 03/30 21:19:29 Job was unsuspended.
+...
+022 (160667.000.000) 03/30 22:34:10 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot36@glamdring-1.cs.utexas.edu <128.83.120.228:43566>
+...
+023 (160667.000.000) 03/30 22:34:11 Job reconnected to slot36@glamdring-1.cs.utexas.edu
+    startd address: <128.83.120.228:43566>
+    starter address: <128.83.120.228:51668>
+...
+005 (160667.000.000) 03/31 03:54:32 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 06:43:06, Sys 0 00:00:38  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 06:43:06, Sys 0 00:00:38  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :     3500     3500          
+	   Memory (MB)          :    12208    12208          
+...

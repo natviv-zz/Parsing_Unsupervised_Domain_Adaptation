@@ -1,0 +1,73 @@
+000 (160675.000.000) 03/29 18:14:36 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160675.000.000) 03/29 18:15:04 Job executing on host: <128.83.130.223:52205>
+...
+006 (160675.000.000) 03/29 18:15:12 Image size of job updated: 0
+	3  -  MemoryUsage of job (MB)
+	2180  -  ResidentSetSize of job (KB)
+...
+006 (160675.000.000) 03/29 18:20:12 Image size of job updated: 34218080
+	6503  -  MemoryUsage of job (MB)
+	6658928  -  ResidentSetSize of job (KB)
+...
+006 (160675.000.000) 03/29 18:25:13 Image size of job updated: 34218080
+	8279  -  MemoryUsage of job (MB)
+	8477336  -  ResidentSetSize of job (KB)
+...
+006 (160675.000.000) 03/29 18:30:14 Image size of job updated: 34218080
+	10340  -  MemoryUsage of job (MB)
+	10587472  -  ResidentSetSize of job (KB)
+...
+006 (160675.000.000) 03/29 18:40:14 Image size of job updated: 34218080
+	10345  -  MemoryUsage of job (MB)
+	10592364  -  ResidentSetSize of job (KB)
+...
+006 (160675.000.000) 03/29 18:55:15 Image size of job updated: 34218080
+	10353  -  MemoryUsage of job (MB)
+	10601232  -  ResidentSetSize of job (KB)
+...
+006 (160675.000.000) 03/29 19:10:17 Image size of job updated: 34218080
+	10429  -  MemoryUsage of job (MB)
+	10678676  -  ResidentSetSize of job (KB)
+...
+022 (160675.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot3@nanna.cs.utexas.edu <128.83.130.223:52205>
+...
+023 (160675.000.000) 03/29 20:30:31 Job reconnected to slot3@nanna.cs.utexas.edu
+    startd address: <128.83.130.223:52205>
+    starter address: <128.83.130.223:33456>
+...
+001 (160675.000.000) 03/29 20:59:45 Job executing on host: <128.83.144.147:40616>
+...
+001 (160675.000.000) 03/30 03:19:41 Job executing on host: <128.83.120.128:47903>
+...
+006 (160675.000.000) 03/30 03:19:50 Image size of job updated: 35263044
+	12208  -  MemoryUsage of job (MB)
+	12500000  -  ResidentSetSize of job (KB)
+...
+010 (160675.000.000) 03/30 03:23:28 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160675.000.000) 03/30 03:27:34 Job was unsuspended.
+...
+010 (160675.000.000) 03/30 03:37:46 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160675.000.000) 03/30 03:38:31 Job was unsuspended.
+...
+005 (160675.000.000) 03/30 09:00:05 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 05:47:51, Sys 0 00:00:56  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 05:47:51, Sys 0 00:00:56  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3500     3500    835414
+	   Memory (MB)          :    12208    12208     12899
+...

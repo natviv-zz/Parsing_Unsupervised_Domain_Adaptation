@@ -1,0 +1,67 @@
+000 (160647.000.000) 03/29 17:55:57 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160647.000.000) 03/29 17:56:03 Job executing on host: <128.83.139.5:34539>
+...
+006 (160647.000.000) 03/29 17:56:12 Image size of job updated: 0
+	3  -  MemoryUsage of job (MB)
+	2196  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 18:01:13 Image size of job updated: 34916040
+	1791  -  MemoryUsage of job (MB)
+	1833224  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 18:21:15 Image size of job updated: 34916040
+	2104  -  MemoryUsage of job (MB)
+	2154004  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 18:26:16 Image size of job updated: 34916040
+	2757  -  MemoryUsage of job (MB)
+	2822700  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 18:31:16 Image size of job updated: 34916040
+	4437  -  MemoryUsage of job (MB)
+	4542672  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 19:56:28 Image size of job updated: 34916040
+	4474  -  MemoryUsage of job (MB)
+	4581300  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 20:01:25 Image size of job updated: 34916040
+	6213  -  MemoryUsage of job (MB)
+	6361624  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 20:06:26 Image size of job updated: 34916040
+	7858  -  MemoryUsage of job (MB)
+	8046036  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 20:11:27 Image size of job updated: 34916040
+	8183  -  MemoryUsage of job (MB)
+	8378440  -  ResidentSetSize of job (KB)
+...
+006 (160647.000.000) 03/29 20:26:29 Image size of job updated: 34916040
+	8183  -  MemoryUsage of job (MB)
+	8378464  -  ResidentSetSize of job (KB)
+...
+022 (160647.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot1@angrist-5.cs.utexas.edu <128.83.139.5:34539>
+...
+023 (160647.000.000) 03/29 20:30:30 Job reconnected to slot1@angrist-5.cs.utexas.edu
+    startd address: <128.83.139.5:34539>
+    starter address: <128.83.139.5:56370>
+...
+005 (160647.000.000) 03/29 20:31:27 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 02:26:44, Sys 0 00:00:45  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 02:26:44, Sys 0 00:00:45  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request          
+	   Cpus                 :                 1          
+	   Disk (KB)            :     3500     3500          
+	   Memory (MB)          :     9766     9766          
+...

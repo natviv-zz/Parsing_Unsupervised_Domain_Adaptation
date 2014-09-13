@@ -1,0 +1,34 @@
+Seed size set 21000
+Self train size set 40000
+original train tree summary Treebank has 21069 trees (19844 of length <= 40) and 392606 words (tokens)
+  The root category is: ROOT
+  Warning! 59 trees without unary initial rewrite.  Rewrites: {(ROOT SBARQ . .)=6, (ROOT '' S .)=2, (ROOT FRAG .)=7, (ROOT -LRB- `` SBARQ . .)=1, (ROOT VP '' .)=1, (ROOT UCP .)=1, (ROOT `` SBARQ)=1, (ROOT `` INTJ)=5, (ROOT S . .)=1, (ROOT VP .)=4, (ROOT NP S .)=1, (ROOT X . .)=1, (ROOT NP .)=1, (ROOT `` S)=1, (ROOT FRAG . .)=2, (ROOT SBAR .)=2, (ROOT S S .)=1, (ROOT S .)=14, (ROOT `` INTJ .)=1, (ROOT ADJP '' .)=1, (ROOT `` ADVP .)=1, (ROOT `` FRAG '' .)=1, (ROOT SQ . .)=2, (ROOT WHADVP '' . .)=1}
+    Example: (ROOT (S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (NP (DT the) (NN way)) (SBAR (S (NP (DT the) (NN speaker)) (VP (VBZ relates) (PP (TO to) (NP (NN mother))))))) (VP (VBZ is) (ADVP (RB clearly)) (VP (VBN indicated)))) (. .))
+  Sentences range from 1 to 172 words, with an average length of 18.63 words.
+  34 phrasal category types, 59 tag types, and 26730 word types
+  Warning! 1 items are tags and categories: [UH]
+    Cats: {ADJP=7,686, ADV=2, ADVP=13,818, AUX=2, CONJP=349, EDITED=10, FRAG=753, INTJ=875, LST=27, NAC=92, NP=119,539, NP-ADV=519, NP-TMP=699, NX=320, PP=37,871, PRN=638, PRT=1,920, QP=358, ROOT=21,069, RRC=45, S=49,441, SBAR=12,289, SBARQ=536, SINV=489, SQ=1,174, TYPO=4, UCP=397, UH=1, VP=72,117, WHADJP=97, WHADVP=1,824, WHNP=3,322, WHPP=284, X=35}
+    Tags: {$=51, ''=4,511, ,=19,999, -LRB-=275, -RRB-=280, .=23,209, :=3,584, CC=12,635, CD=2,959, CD-ADV=11, DT=36,571, DT-ADV=6, EX=867, FW=251, IN=40,852, JJ=22,733, JJ-ADV=29, JJR=795, JJR-ADV=2, JJS=483, JJS-ADV=1, LS=28, MD=4,929, NN=48,429, NN-ADV=180, NN-TMP=503, NNP=15,918, NNP-ADV=5, NNP-TMP=18, NNPS=418, NNS=14,442, NNS-ADV=99, NNS-TMP=93, PDT=240, POS=1,790, PRP=24,580, PRP$=7,491, PRP-ADV=38, RB=20,401, RB-ADV=48, RBR=572, RBS=211, RBS-ADV=1, RP=1,790, SYM=20, TO=8,464, UH=657, VB=13,250, VB-ADV=1, VBD=24,129, VBG=6,541, VBN=8,618, VBP=4,254, VBZ=4,910, WDT=1,337, WP=1,724, WP$=63, WRB=1,928, ``=4,382}
+    20 start categories: {ADJP=39, ADVP=38, FRAG=408, INTJ=122, NP=435, NP-TMP=6, PP=52, PRN=15, S=18,602, SBAR=78, SBARQ=353, SINV=293, SQ=419, UCP=91, VP=25, WHADJP=2, WHADVP=6, WHNP=16, WHPP=1, X=9}
+
+train tree summary Treebank has 21000 trees (19777 of length <= 40) and 391680 words (tokens)
+  The root category is: ROOT
+  Warning! 59 trees without unary initial rewrite.  Rewrites: {(ROOT SBARQ . .)=6, (ROOT '' S .)=2, (ROOT FRAG .)=7, (ROOT -LRB- `` SBARQ . .)=1, (ROOT VP '' .)=1, (ROOT UCP .)=1, (ROOT `` SBARQ)=1, (ROOT `` INTJ)=5, (ROOT S . .)=1, (ROOT VP .)=4, (ROOT NP S .)=1, (ROOT X . .)=1, (ROOT NP .)=1, (ROOT `` S)=1, (ROOT FRAG . .)=2, (ROOT SBAR .)=2, (ROOT S S .)=1, (ROOT S .)=14, (ROOT `` INTJ .)=1, (ROOT ADJP '' .)=1, (ROOT `` ADVP .)=1, (ROOT `` FRAG '' .)=1, (ROOT SQ . .)=2, (ROOT WHADVP '' . .)=1}
+    Example: (ROOT (S (PP (IN In) (NP (JJ other) (NNS words))) (, ,) (NP (NP (DT the) (NN way)) (SBAR (S (NP (DT the) (NN speaker)) (VP (VBZ relates) (PP (TO to) (NP (NN mother))))))) (VP (VBZ is) (ADVP (RB clearly)) (VP (VBN indicated)))) (. .))
+  Sentences range from 1 to 172 words, with an average length of 18.65 words.
+  34 phrasal category types, 59 tag types, and 26702 word types
+  Warning! 1 items are tags and categories: [UH]
+    Cats: {ADJP=7,674, ADV=2, ADVP=13,777, AUX=2, CONJP=348, EDITED=10, FRAG=750, INTJ=873, LST=27, NAC=92, NP=119,253, NP-ADV=518, NP-TMP=694, NX=320, PP=37,776, PRN=638, PRT=1,916, QP=357, ROOT=21,000, RRC=45, S=49,328, SBAR=12,269, SBARQ=535, SINV=489, SQ=1,168, TYPO=4, UCP=397, UH=1, VP=71,960, WHADJP=97, WHADVP=1,821, WHNP=3,314, WHPP=284, X=35}
+    Tags: {$=51, ''=4,495, ,=19,960, -LRB-=275, -RRB-=280, .=23,129, :=3,569, CC=12,611, CD=2,952, CD-ADV=11, DT=36,493, DT-ADV=6, EX=865, FW=251, IN=40,757, JJ=22,688, JJ-ADV=28, JJR=794, JJR-ADV=2, JJS=482, JJS-ADV=1, LS=28, MD=4,921, NN=48,316, NN-ADV=180, NN-TMP=500, NNP=15,899, NNP-ADV=5, NNP-TMP=18, NNPS=418, NNS=14,416, NNS-ADV=99, NNS-TMP=91, PDT=240, POS=1,789, PRP=24,505, PRP$=7,469, PRP-ADV=38, RB=20,345, RB-ADV=48, RBR=572, RBS=211, RBS-ADV=1, RP=1,784, SYM=20, TO=8,451, UH=654, VB=13,229, VB-ADV=1, VBD=24,050, VBG=6,531, VBN=8,599, VBP=4,241, VBZ=4,906, WDT=1,334, WP=1,719, WP$=62, WRB=1,924, ``=4,366}
+    20 start categories: {ADJP=39, ADVP=38, FRAG=406, INTJ=121, NP=435, NP-TMP=6, PP=52, PRN=15, S=18,538, SBAR=78, SBARQ=353, SINV=293, SQ=417, UCP=91, VP=25, WHADJP=2, WHADVP=6, WHNP=16, WHPP=1, X=9}
+
+self train tree summary Treebank has 36559 trees (33788 of length <= 40) and 868494 words (tokens)
+  The root category is: ROOT
+  Sentences range from 1 to 118 words, with an average length of 23.75 words.
+  29 phrasal category types, 62 tag types, and 42476 word types
+  Caution! 2 word types are known empty elements: [*, 0]
+    Cats: {ADJP=13,184, ADVP=18,281, CONJP=273, FRAG=461, INTJ=123, LST=36, NAC=379, NP=278,464, NP-ADV=1,935, NP-TMP=4,062, NX=1,199, PP=86,555, PRN=2,194, PRT=2,447, QP=8,727, ROOT=36,559, RRC=40, S=87,133, SBAR=25,309, SBARQ=188, SINV=1,904, SQ=319, UCP=448, VP=132,962, WHADJP=55, WHADVP=1,915, WHNP=6,667, WHPP=359, X=155}
+    Tags: {#=129, $=6,676, $-ADV=11, ''=6,386, ,=44,730, -LRB-=1,247, -RRB-=1,257, .=36,217, :=4,386, CC=21,813, CD=33,599, CD-ADV=27, DT=74,584, DT-ADV=49, EX=798, FW=214, IN=90,062, JJ=55,762, JJ-ADV=14, JJR=2,983, JJR-ADV=4, JJS=1,783, JJS-ADV=3, LS=34, MD=8,824, NN=117,476, NN-ADV=1,568, NN-TMP=2,559, NNP=82,502, NNP-ADV=1, NNP-TMP=1,248, NNPS=2,382, NNPS-TMP=2, NNS=54,361, NNS-ADV=94, NNS-TMP=122, PDT=349, POS=8,043, PRP=15,900, PRP$=7,722, PRP-ADV=20, RB=28,389, RB-ADV=18, RBR=1,654, RBR-ADV=3, RBS=391, RBS-ADV=1, RP=2,468, SYM=40, TO=20,302, UH=91, VB=23,875, VBD=27,753, VBG=13,589, VBN=18,277, VBP=11,282, VBZ=19,696, WDT=3,876, WP=2,163, WP$=151, WRB=1,988, ``=6,546}
+    16 start categories: {ADJP=5, ADVP=7, FRAG=236, INTJ=14, NP=1,172, NP-TMP=12, PP=18, PRN=7, S=33,152, SBAR=22, SBARQ=119, SINV=1,667, SQ=83, UCP=11, VP=7, X=27}
+
+self training... /u/natviv/nlphw3/mrg/wsj.mrg

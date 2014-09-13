@@ -1,0 +1,112 @@
+000 (160669.000.000) 03/29 18:12:27 Job submitted from host: <128.83.120.146:48795>
+...
+001 (160669.000.000) 03/29 18:13:21 Job executing on host: <128.83.130.223:52205>
+...
+006 (160669.000.000) 03/29 18:13:30 Image size of job updated: 34216344
+	1051  -  MemoryUsage of job (MB)
+	1075284  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:18:31 Image size of job updated: 34216344
+	8170  -  MemoryUsage of job (MB)
+	8365608  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:23:31 Image size of job updated: 34216344
+	8199  -  MemoryUsage of job (MB)
+	8395348  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:28:31 Image size of job updated: 34216344
+	8234  -  MemoryUsage of job (MB)
+	8431256  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:33:32 Image size of job updated: 34216344
+	8251  -  MemoryUsage of job (MB)
+	8448312  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:38:32 Image size of job updated: 34216344
+	8256  -  MemoryUsage of job (MB)
+	8453736  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:43:32 Image size of job updated: 34216344
+	8295  -  MemoryUsage of job (MB)
+	8493812  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:48:33 Image size of job updated: 34216344
+	8304  -  MemoryUsage of job (MB)
+	8502324  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:53:34 Image size of job updated: 34216344
+	8316  -  MemoryUsage of job (MB)
+	8514572  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 18:58:34 Image size of job updated: 34216344
+	8327  -  MemoryUsage of job (MB)
+	8526404  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:03:35 Image size of job updated: 34216344
+	8359  -  MemoryUsage of job (MB)
+	8559592  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:08:36 Image size of job updated: 34216344
+	8373  -  MemoryUsage of job (MB)
+	8573836  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:13:36 Image size of job updated: 34216344
+	8395  -  MemoryUsage of job (MB)
+	8596104  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:18:36 Image size of job updated: 34216344
+	8414  -  MemoryUsage of job (MB)
+	8615332  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:23:36 Image size of job updated: 34216344
+	8422  -  MemoryUsage of job (MB)
+	8623500  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:28:37 Image size of job updated: 34216344
+	8456  -  MemoryUsage of job (MB)
+	8657948  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:33:38 Image size of job updated: 34216344
+	8499  -  MemoryUsage of job (MB)
+	8702340  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:38:38 Image size of job updated: 34216344
+	8526  -  MemoryUsage of job (MB)
+	8730288  -  ResidentSetSize of job (KB)
+...
+006 (160669.000.000) 03/29 19:43:38 Image size of job updated: 34216344
+	8597  -  MemoryUsage of job (MB)
+	8803004  -  ResidentSetSize of job (KB)
+...
+022 (160669.000.000) 03/29 20:30:30 Job disconnected, attempting to reconnect
+    Local schedd and job shadow died, schedd now running again
+    Trying to reconnect to slot10@nanna.cs.utexas.edu <128.83.130.223:52205>
+...
+023 (160669.000.000) 03/29 20:30:30 Job reconnected to slot10@nanna.cs.utexas.edu
+    startd address: <128.83.130.223:52205>
+    starter address: <128.83.130.223:54236>
+...
+001 (160669.000.000) 03/29 20:59:45 Job executing on host: <128.83.144.147:40616>
+...
+001 (160669.000.000) 03/30 03:19:41 Job executing on host: <128.83.130.161:44176>
+...
+010 (160669.000.000) 03/30 03:23:03 Job was suspended.
+	Number of processes actually suspended: 1
+...
+011 (160669.000.000) 03/30 03:24:49 Job was unsuspended.
+...
+005 (160669.000.000) 03/30 04:42:49 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 01:22:12, Sys 0 00:00:07  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 01:22:12, Sys 0 00:00:07  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	0  -  Run Bytes Sent By Job
+	0  -  Run Bytes Received By Job
+	0  -  Total Bytes Sent By Job
+	0  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated
+	   Cpus                 :                 1         1
+	   Disk (KB)            :     3500     3500   1912088
+	   Memory (MB)          :     9766     9766     24188
+...
